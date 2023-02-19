@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/seadadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seadadan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16269235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16269235" height="30" width="40" /></a>
 <a href="https://fb.com/seadadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seadadan" height="30" width="40" /></a>
-<a href="https://instagram.com/seadadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sead_adan" height="30" width="40" /></a>
+<a href="https://instagram.com/sead_adan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seadadan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
